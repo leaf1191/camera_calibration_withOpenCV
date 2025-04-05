@@ -50,7 +50,7 @@ T10: [-276.0632, -210.4385, 690.1783]
 # 렌즈 왜곡 보정 결과
 
 ## 왜곡 보정 전
-이미지1
+<img width="374" alt="Image" src="https://github.com/user-attachments/assets/712468f2-c0f2-47d9-be10-e2853c820ed7" />
 
 ## 왜곡 보정 후
-이미지2
+<img width="403" alt="Image" src="https://github.com/user-attachments/assets/0a9e43c1-8c3e-4ec0-bda8-078c0b48ae07" />
